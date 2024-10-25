@@ -1,11 +1,14 @@
 export const font = {
-  regular: 'NunitoSans-Regular',
-  light: 'NunitoSans-Light',
-  medium: 'NunitoSans-SemiBold',
-  bold: 'NunitoSans-Bold',
-  extrabold: 'NunitoSans-ExtraBold',
+  regular: 'Roboto-Regular',
+  light: 'Roboto-Light',
+  medium: 'Roboto-Medium',
+  bold: 'Roboto-Bold',
+  RibeyeFont: 'Ribeye-Regular'
 };
 export const BASE_URL = '';
+export const color = {
+    white: '#ffffff'
+};
 export const endPoints = {
   Login: '',
 };

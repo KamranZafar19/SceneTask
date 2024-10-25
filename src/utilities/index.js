@@ -5,12 +5,11 @@ export {
   isIphoneXSM,
   htmlStyle,
 } from './responsive/responsive';
-export {BASE_URL, endPoints, font, Headers} from './constants';
+export {BASE_URL, endPoints, font, Headers, color} from './constants';
 export {
   showToast,
   emailValidator,
   BusinessemailValidator,
-  getPicture,
   Lumper,
   storeToStorage,
   retriveFromStorage,
